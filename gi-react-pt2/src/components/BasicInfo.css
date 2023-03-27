@@ -1,0 +1,21 @@
+body {
+    background-color: bisque;
+    color: rgb(62, 62, 142);
+}
+
+.info-block {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 3px solid rgb(4, 53, 126);
+    padding: 10px;
+}
+
+.content {
+    margin: 5px;
+    animation: App-logo-spin infinite 40s linear;
+}
+
+.content :hover {
+    color: rgb(32, 149, 110);
+}
